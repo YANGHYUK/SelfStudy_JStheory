@@ -1,6 +1,5 @@
 <h1> String, Number/Math, Array Methods
 
-
 **결론:** 모든 String Methods 는  ***Immutable***
 
 
@@ -12,9 +11,10 @@
 2. str.concat(str2, str3..) // 인자로 주어진 배열이나 값들을 기존 배열에 합쳐 새 배열을 반환
 3. str.indexOf(searchValue) // 찾고자 하는 문자열의 index를 반환
 4. str.split(seperator) // seperator(arguments)를 분리 기준으로 하여 문자열 반환
-5. str.substring(start, end) // [start, end](arguments) start시점에서 end시점 전까지의 문자열을 반환
+5. str.substring(start, end) // [start, end](arguments) start시점에서 end시점 전까지의 문자열 반환
 6. str.match(words) // 해당 words가 str에 있다면 해당 words를 반환
-					// 단!, if words === Infinity && str에 Infinity 가 존재할 경우 Infinity의 타입은 number이므로 +Infinity로 입력해서 찾아야만 된다.
+					// 단!, if words === Infinity && str에 Infinity 가 존재할 경우 Infinity의   
+					// 타입은 number이므로 +Infinity로 입력해서 찾아야만 된다.
 7. sentence.replace(str1, str2) // sentence내에 str1이 존재한다면 이 문자를 str2로 바꾸어 준다.
 ```
 
@@ -115,7 +115,3 @@
    
    
    ```
-
-   
-
-4. 
