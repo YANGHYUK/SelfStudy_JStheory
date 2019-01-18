@@ -1,6 +1,5 @@
-<h1> String, 
-    Number/Math, 
-    Array Methods
+<h1> String, Number/Math, Array Methods
+
 
 **결론:** 모든 String Methods 는  ***Immutable***
 
